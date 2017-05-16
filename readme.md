@@ -1,11 +1,12 @@
-# git clone https://github.com/michaelwclark/wes-fun.git
-# npm install
+# setup
+## `git clone https://github.com/michaelwclark/wes-fun.git`
+## `npm install`
 
 
-test
-# npm test
+# testing
+## `npm test`
 
 
-run
-# node index.js x
-## where x is albumId
+# running
+## `node index.js x`
+##  where x is albumId
