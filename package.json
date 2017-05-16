@@ -1,0 +1,25 @@
+{
+  "name": "wes-fun",
+  "version": "1.0.0",
+  "description": "JS version of wesleys program",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwclark/wes-fun.git"
+  },
+  "author": "Michael W. Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelwclark/wes-fun/issues"
+  },
+  "homepage": "https://github.com/michaelwclark/wes-fun#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "get-json": "0.0.3",
+    "jest": "^20.0.1",
+    "sinon": "^2.2.0"
+  }
+}
